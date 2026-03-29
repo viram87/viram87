@@ -47,7 +47,7 @@ Practices       WCAG 2.x · Agile · Scrum · Code Reviews
 > **A full desktop operating system in the browser — my portfolio.**
 
 <a href="https://viram-choksi.vercel.app">
-  <img src="https://viram-choksi.vercel.app/og-image.jpg" alt="ViramOS - Interactive OS Portfolio" width="600" />
+  <img src="https://viram-choksi.vercel.app/opengraph-image" alt="ViramOS - Interactive OS Portfolio" width="600" />
 </a>
 
 Boot sequence · Login screen · Draggable windows · Taskbar · 13+ apps · 6 games · Terminal · Command palette · Window snap zones · Settings persistence · WCAG accessible
